@@ -1,4 +1,6 @@
 # Python Zero to Hero for DevOps Engineers
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeepshivu%2Fpython-for-devops.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeepshivu%2Fpython-for-devops?ref=badge_shield)
+
 
 <img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://github.com/iam-veeramalla/python-for-devops/assets/43399466/d70f5fe2-0ba3-449d-b41f-413a38fc4584">
 
@@ -100,3 +102,7 @@
 
 ## Day 17: Python Interview Questions & Answers
 - Advanced Level
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeepshivu%2Fpython-for-devops.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeepshivu%2Fpython-for-devops?ref=badge_large)
